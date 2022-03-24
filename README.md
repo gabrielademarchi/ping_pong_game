@@ -12,4 +12,4 @@ Concepts used:
 <li>Slicing</li>  
 </ul>
 
--Day 21 of the #100daysofcode challenge
+-Day 22 of the #100daysofcode challenge
